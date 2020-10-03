@@ -1,3 +1,3 @@
 # react-practice
+On master branch
 On test2 branch
-Change after pushing to test2/origin
